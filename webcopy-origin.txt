@@ -1,0 +1,548 @@
+Uri: https://bitflarix.com/
+File Name: C:\Downloaded Web Sites\bitflarix.com\index.htm
+Content Type: text/html
+
+Uri: https://bitflarix.com/css/index.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\index.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page32849141.min.css?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-blocks-page32849141.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page32849141.min.css?t=1675629694&v=eXCRwjbTG6A4rTdjW6N2oyVyuc-WKRXkkyG2W-y7rgo
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-blocks-page32849141.min-1.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page33176267.min.css?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-blocks-page33176267.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page33176414.min.css?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-blocks-page33176414.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page33204014.min.css?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-blocks-page33204014.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page33204275.min.css?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-blocks-page33204275.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page33204661.min.css?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-blocks-page33204661.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-catalog-1.1.min.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-catalog-1.1.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-grid-3.0.min.css?v=vjdbMGxgWofN7OM8Xu9Te8o3XG1-hAP9FXO4M6yF4l4
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-grid-3.0.min-1.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\bitflarix.com\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/Home
+File Name: C:\Downloaded Web Sites\bitflarix.com\Home.html
+Content Type: text/html
+
+Uri: https://bitflarix.com/Home/About
+File Name: C:\Downloaded Web Sites\bitflarix.com\Home\About.html
+Content Type: text/html
+
+Uri: https://bitflarix.com/Home/FAQ
+File Name: C:\Downloaded Web Sites\bitflarix.com\Home\FAQ.html
+Content Type: text/html
+
+Uri: https://bitflarix.com/Home/Licenses
+File Name: C:\Downloaded Web Sites\bitflarix.com\Home\Licenses.html
+Content Type: text/html
+
+Uri: https://bitflarix.com/Home/Terms_of_use
+File Name: C:\Downloaded Web Sites\bitflarix.com\Home\Terms_of_use.html
+Content Type: text/html
+
+Uri: https://bitflarix.com/Home/User_agreement
+File Name: C:\Downloaded Web Sites\bitflarix.com\Home\User_agreement.html
+Content Type: text/html
+
+Uri: https://bitflarix.com/images/atom.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\atom.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/back.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\back.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/bnb.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\bnb.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/btc.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\btc.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/card/Group 5256.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\card\Group 5256.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/card/Group 5273.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\card\Group 5273.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/card/Group 5276.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\card\Group 5276.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/dot.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\dot.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/eth.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\eth.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/Expand_down.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\Expand_down.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons-block-2/img-btc.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\icons-block-2\img-btc.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/icons-block-2/Sandglass&Bitcoin-3.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\icons-block-2\Sandglass&Bitcoin-3.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/icons/chat-left-text 1.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\icons\chat-left-text 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/file-earmark-ruled 1.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\icons\file-earmark-ruled 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/house 1.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\icons\house 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/question-circle 1.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\icons\question-circle 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/wallet 1.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\icons\wallet 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/img-phone.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\img-phone.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 427320753.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 427320753.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095721.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095721.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095722.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095722.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095724.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095724.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095725.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095725.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095726.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095726.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095727.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095727.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095728.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095728.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095729.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095729.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo-company/Group 48095730.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo-company\Group 48095730.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\logo.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/ltc2.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\ltc2.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/matic.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\matic.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/near.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\near.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/preloader.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\preloader.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/sol.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\sol.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/tild3036-6565-4164-a365-666665643863__-__empty__group_48095721.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3036-6565-4164-a365-666665643863__-__empty__group_48095721.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3038-6430-4361-b736-376233326265__group_48095676.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3038-6430-4361-b736-376233326265__group_48095676.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3062-3065-4835-b865-643266636162__637b540a6d55b6c4e5bb.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3062-3065-4835-b865-643266636162__637b540a6d55b6c4e5bb.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3063-3262-4964-a639-333539316330__637b540a6d55b6f046bb.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3063-3262-4964-a639-333539316330__637b540a6d55b6f046bb.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3161-6463-4335-b530-396361316461__-__empty__group_48095725.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3161-6463-4335-b530-396361316461__-__empty__group_48095725.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3164-3762-4239-b434-366462366234__group_427320800.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3164-3762-4239-b434-366462366234__group_427320800.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3237-3531-4438-b364-373230363439__group_427320782.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3237-3531-4438-b364-373230363439__group_427320782.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3262-3664-4038-b663-306263356664__group_427320801.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3262-3664-4038-b663-306263356664__group_427320801.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3265-6436-4332-b863-643234373064__group_427320784.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3265-6436-4332-b863-643234373064__group_427320784.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3330-3934-4935-b338-653430633834__group_427320783.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3330-3934-4935-b338-653430633834__group_427320783.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3334-3433-4739-a135-653335613161__group-427320785.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3334-3433-4739-a135-653335613161__group-427320785.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3466-6434-4133-b366-333834353634__group_48095673.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3466-6434-4133-b366-333834353634__group_48095673.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3530-6263-4463-b661-663936613834__-__empty__group_48095726.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3530-6263-4463-b661-663936613834__-__empty__group_48095726.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3534-3038-4962-b630-323266373164__group_48095679.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3534-3038-4962-b630-323266373164__group_48095679.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3536-3836-4266-b131-396630633463__group_48095680.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3536-3836-4266-b131-396630633463__group_48095680.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3566-6466-4237-a666-353165313064__-__empty__group_48095728.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3566-6466-4237-a666-353165313064__-__empty__group_48095728.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3638-6438-4436-b234-633036636134__group_427320785.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3638-6438-4436-b234-633036636134__group_427320785.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3665-3465-4663-b062-303233633165__-__empty__group_48095729.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3665-3465-4663-b062-303233633165__-__empty__group_48095729.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3666-3434-4830-b765-356261643937__group_48095675.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3666-3434-4830-b765-356261643937__group_48095675.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3731-6163-4532-a563-666132653964__-__empty__group_48095722.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3731-6163-4532-a563-666132653964__-__empty__group_48095722.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3831-6234-4435-b733-653262323231__frame_5457.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3831-6234-4435-b733-653262323231__frame_5457.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3865-6463-4134-a431-636366316430__-__empty__group_48095730.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3865-6463-4134-a431-636366316430__-__empty__group_48095730.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild3932-3533-4233-a662-663566343364__group_48095677.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild3932-3533-4233-a662-663566343364__group_48095677.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6133-3234-4435-b534-656163316330__-__empty__group_48095724.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6133-3234-4435-b534-656163316330__-__empty__group_48095724.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6236-3965-4232-b630-386362623734__-__empty__group_48095727.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6236-3965-4232-b630-386362623734__-__empty__group_48095727.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6236-6134-4465-b933-653264343138__austin-distel-7uommz.jpg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6236-6134-4465-b933-653264343138__austin-distel-7uommz.jpg
+Content Type: image/jpeg
+
+Uri: https://bitflarix.com/images/tild6334-6331-4539-a534-363461643133__group_48095678.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6334-6331-4539-a534-363461643133__group_48095678.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6335-3836-4339-b036-313632386161__group_48095681.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6335-3836-4339-b036-313632386161__group_48095681.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6336-6431-4932-a630-363036366133__group_48095674.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6336-6431-4932-a630-363036366133__group_48095674.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6437-6438-4332-b336-313964366566__-__empty__group_427320753.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6437-6438-4332-b336-313964366566__-__empty__group_427320753.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6534-6138-4739-a636-613534376634__group_427320802.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6534-6138-4739-a636-613534376634__group_427320802.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6561-6363-4136-b439-323936303562__637b540a6d55b6c4e5bb.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6561-6363-4136-b439-323936303562__637b540a6d55b6c4e5bb.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6566-6138-4366-a661-326333643434__group_48095682.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6566-6138-4366-a661-326333643434__group_48095682.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6630-6136-4261-b037-326535323134__logo.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6630-6136-4261-b037-326535323134__logo.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6632-3231-4035-a436-613361323262__group_427320781.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6632-3231-4035-a436-613361323262__group_427320781.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6661-3666-4335-a633-316266383935__logo.png
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\tild6661-3666-4335-a633-316266383935__logo.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/usdt.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\usdt.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/Vertical_switch.svg
+File Name: C:\Downloaded Web Sites\bitflarix.com\images\Vertical_switch.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/js/copy.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\copy.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/exchange.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\exchange.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/jquery.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/lazyload-1.3.min.js?v=yjcOEIxQSQbqvMhcf338zjed7oKWMhClvTt8022FQ4Q
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\lazyload-1.3.min-1.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/script.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-blocks-page32849141.min.js?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-blocks-page32849141.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-blocks-page32849141.min.js?t=1675629694&v=T8iMtH2XeL-QgvejscXs14KbPegPOPRxG0OIBt6y2Fc
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-blocks-page32849141.min-1.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-blocks-page33176267.min.js?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-blocks-page33176267.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-blocks-page33176414.min.js?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-blocks-page33176414.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-blocks-page33204014.min.js?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-blocks-page33204014.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-blocks-page33204661.min.js?t=1675629694
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-blocks-page33204661.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-events-1.0.min.js?v=sRctXdtzuqzDa-sbPKLTGleqH_BVanTafIwl3byUVCA
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-events-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-menu-1.0.min.js?v=D-triqTNnxknZ4_HmPNsCo6RN5yHGO5H_-yfv6ox334
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-menu-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-scripts-3.0.min.js?v=8h4ZILiSCxtADWOdv2wUOjm6ZGUtnqV6sdSM58o_Pxw
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-scripts-3.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-zero-1.1.min.js?v=oLXQEZZVdS62sGVpoD4YTZHhGTSrZ8QDzwYqj6IIms8
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-zero-1.1.min-1.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-zero-scale-1.0.min.js?v=Vs2cI3ORXnEZzqMnBEq0vigBGln1rSbP1hbLxE0f9VU
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-zero-scale-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/valid.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\valid.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/validate.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\validate.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/yii.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\yii.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/Order/Create
+File Name: C:\Downloaded Web Sites\bitflarix.com\Order\Create.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\npm\@emailjs\browser@3\dist\email.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\bitflarix.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+File Name: C:\Downloaded Web Sites\bitflarix.com\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+File Name: C:\Downloaded Web Sites\bitflarix.com\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+File Name: C:\Downloaded Web Sites\bitflarix.com\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-dict-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-forms-dict-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-hover-zoom-1.0.min.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\js\tilda-hover-zoom-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3632-3563-4761-b530-323834326534/Inter-Medium-2.woff
+File Name: C:\Downloaded Web Sites\bitflarix.com\tild3632-3563-4761-b530-323834326534\Inter-Medium-2.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3865-3530-4563-b035-383834626236/Inter-SemiBold.woff
+File Name: C:\Downloaded Web Sites\bitflarix.com\tild3865-3530-4563-b035-383834626236\Inter-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6133-3963-4462-a531-393132643565/SpaceGrotesk-Bold.woff
+File Name: C:\Downloaded Web Sites\bitflarix.com\tild6133-3963-4462-a531-393132643565\SpaceGrotesk-Bold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6364-3565-4264-b831-346334333931/SpaceGrotesk-Medium.woff
+File Name: C:\Downloaded Web Sites\bitflarix.com\tild6364-3565-4264-b831-346334333931\SpaceGrotesk-Medium.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6632-3965-4330-b037-633563643934/Inter-Regular-2.woff
+File Name: C:\Downloaded Web Sites\bitflarix.com\tild6632-3965-4330-b037-633563643934\Inter-Regular-2.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/imask@7.1.3/dist/imask.js
+File Name: C:\Downloaded Web Sites\bitflarix.com\imask@7.1.3\dist\imask.js
+Content Type: application/javascript
+
