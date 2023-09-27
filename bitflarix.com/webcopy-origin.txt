@@ -1,0 +1,108 @@
+Uri: https://bitflarix.com/css/index.css
+File Name: C:\Downloaded Web Sites1\bitflarix.com\css\index.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-blocks-page32849141.min.css?t=1675629694
+File Name: C:\Downloaded Web Sites1\bitflarix.com\css\tilda-blocks-page32849141.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites1\bitflarix.com\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://bitflarix.com/images/copy-icon 1.svg
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\copy-icon 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/chat-left-text 1.svg
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\icons\chat-left-text 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/file-earmark-ruled 1.svg
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\icons\file-earmark-ruled 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/house 1.svg
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\icons\house 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/question-circle 1.svg
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\icons\question-circle 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/icons/wallet 1.svg
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\icons\wallet 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/img-phone.png
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\img-phone.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/logo.png
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\logo.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/Spinner-1s-200px 1.svg
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\Spinner-1s-200px 1.svg
+Content Type: image/svg+xml
+
+Uri: https://bitflarix.com/images/tild3262-3664-4038-b663-306263356664__group_427320801.png
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\tild3262-3664-4038-b663-306263356664__group_427320801.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/images/tild6661-3666-4335-a633-316266383935__logo.png
+File Name: C:\Downloaded Web Sites1\bitflarix.com\images\tild6661-3666-4335-a633-316266383935__logo.png
+Content Type: image/png
+
+Uri: https://bitflarix.com/js/exchange.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\exchange.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/order.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\order.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/script.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-blocks-page32849141.min.js?t=1675629694
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\tilda-blocks-page32849141.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/js/validate.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\js\validate.js
+Content Type: application/javascript
+
+Uri: https://bitflarix.com/Order/Info/952705
+File Name: C:\Downloaded Web Sites1\bitflarix.com\Order\Info\952705.html
+Content Type: text/html
+
+Uri: https://unpkg.com/imask@7.1.3/dist/imask.js
+File Name: C:\Downloaded Web Sites1\bitflarix.com\imask@7.1.3\dist\imask.js
+Content Type: application/javascript
+
